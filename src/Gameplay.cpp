@@ -1,6 +1,6 @@
-#include "headers\Gameplay.h"
-#include "headers\Piece.h"
-#include "headers\Board.h"
+#include "..\headers\Gameplay.h"
+#include "..\headers\Piece.h"
+#include "..\headers\Board.h"
 
 #include <cstdlib>
 #include <ctime>

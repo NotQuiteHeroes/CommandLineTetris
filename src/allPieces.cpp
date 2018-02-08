@@ -1,4 +1,4 @@
-#include "headers\allPieces.h"
+#include "..\headers\allPieces.h"
 
 char allPieces [7][4][5][5] =
 {

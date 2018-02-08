@@ -1,4 +1,4 @@
-#include "headers\Piece.h"
+#include "..\headers\Piece.h"
 
 //constructor, sets currentX and currentY to starting position on the board
 Piece::Piece()

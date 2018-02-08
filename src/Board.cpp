@@ -1,5 +1,5 @@
-#include "headers\Board.h"
-#include "headers\Piece.h"
+#include "..\headers\Board.h"
+#include "..\headers\Piece.h"
 #include <iostream>
 
 #define HEIGHT 21
